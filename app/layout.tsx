@@ -1,8 +1,8 @@
 import "./globals.css"
 
 export const metadata = {
-  title: "ClipFlow",
-  description: "AI Video Clips",
+  title: "ClipFlow - AI Video Clips",
+  description: "Generate viral-ready clips in seconds",
 }
 
 export default function RootLayout({
