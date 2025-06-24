@@ -1,9 +1,8 @@
-import type React from "react"
 import "./globals.css"
 
 export const metadata = {
-  title: "ClipFlow - AI Video Clips",
-  description: "Generate viral-ready clips in seconds",
+  title: "ClipFlow",
+  description: "AI Video Clips",
 }
 
 export default function RootLayout({
